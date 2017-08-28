@@ -37,7 +37,8 @@ Tu Th: 11:00 AM - 12:30 PM
 **Phone:** (717) 815-6582<br>
 **Office Hours:** <br>&nbsp;&nbsp;&nbsp;&nbsp;
 M W F: 11:00 AM - 12:00 PM<br>&nbsp;&nbsp;&nbsp;&nbsp;
-Tu Th: 2:00 PM - 3:00 PM
+Tu Th: 2:00 PM - 3:00 PM<br>&nbsp;&nbsp;&nbsp;&nbsp;
+or by arrangement
 
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
