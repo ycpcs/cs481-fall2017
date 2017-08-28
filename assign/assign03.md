@@ -35,7 +35,7 @@ A use case or user story documents, from the perspective of a user of the system
 
 Your team can create use cases or user stories: it's up to you.
 
-If you're a little rusty on how to identify and document requirements, please review [Lecture 3](https://ycpcs.github.io/cs320-spring2017/lectures/lecture03.html) from CS 320.
+If you're a little rusty on how to identify and document requirements, please review [Lecture 3](https://ycpcs.github.io/cs320-spring2017/lectures/lecture03.html) from CS 320.  Chapter 7 of [Extreme Programming Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658) discusses user stories.
 
 <!--
 Consider creating initial issues that correspond to the features of the system, i.e. the tasks necessary for implementing each system requirement. Each requirements may consist of multiple issues. Be sure to add a description to each issue explaining the functionality and requirement the issue will address.
@@ -53,6 +53,6 @@ Be sure that as progress on the project proceeds, issues are labeled appropriate
 
 - Create milestones in the github issue tracker: **15%**
 - Add issues representing individual requirements to each milestone: **15%**
-- Each issue is a *use case* or *user story* documenting an important requirement: **50%**
-- The issues comprehensively document the requirements for your system (i.e., no major requirements are undocumented): **20%**
+- Each issue is a *use case* or *user story* documenting an important requirement: **40%**
+- The issues comprehensively document the requirements for your system (i.e., no major requirements are undocumented): **30%**
  
