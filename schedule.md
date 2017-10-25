@@ -13,6 +13,7 @@ This is the course schedule for CS 481.
 [Assignment 3: Requirements](assign/assign03.html)                           | Sunday, Sep 17th by 11:59 PM 
 [Assignment 4: Analysis and Design](assign/assign04.html)                    | Sunday, Sep 24th by 11:59 PM
 [Assignment 5: Minimal Working System](assign/assign05.html)                 | Monday, Oct 23rd demos in class 
+[Assignment 6: 50% Working System](assign/assign06.html)                     | Monday, Nov 13th demos in class
 
 <!--
 Old Fall 2016 Schedule
