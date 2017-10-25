@@ -43,7 +43,7 @@ Your group should plan to present for 12 minutes. Your presentation should inclu
 Your grade will be determined as follows:
 
 - Important system functionality is demonstrated: **50%**
-- Demonstation of Unit tests: **20%**
+- Demonstration of Unit tests: **20%**
 - Discussion of how this functionality is implemented in the underlying object model: **20%**
 - Discussion of how system will be evolved to add remaining functionality: **10%**
 
