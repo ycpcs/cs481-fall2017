@@ -4,11 +4,11 @@ course_number: CS481
 title: Final System, Report, and Presentation
 ---
 
-**Draft Report Due:** Wednesday, Dec 14th by 11:59 PM
+**Draft Report Due:** Wednesday, Dec 13th by 11:59 PM
 
-**Presentations:** Friday, Dec 16th at 12:45 PM in KEC 119
+**Presentations:** Friday, Dec 15th at 12:45 - 2:45 PM in KEC 119
 
-**Final Report Due:** Monday, Dec 19th by 11:59 PM
+**Final Report Due:** Monday, Dec 18th by 11:59 PM
 
 This is a **Team** assignment.
 
